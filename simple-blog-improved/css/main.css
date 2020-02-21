@@ -1,0 +1,14 @@
+
+
+
+.simple-blog-header  {
+    
+    font-size: 2em;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.simple-blog-header a  {
+    color: black;
+    margin: 20px;
+}
